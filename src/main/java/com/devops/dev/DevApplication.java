@@ -14,7 +14,7 @@ public class DevApplication {
    @GetMapping("/devop")
 	public String showmessage(){
 
-		return" Das scheint, alles okkkkk !";
+		return" Willkomen Devops Team";
 	}
 
 	public static void main(String[] args) {
